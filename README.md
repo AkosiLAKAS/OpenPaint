@@ -1,2 +1,2 @@
-# OpenPaint
+# OpenPaint app
 OSS Project
